@@ -210,7 +210,6 @@ services:
     depends_on:
       - free5gc-amf
       - free5gc-smf
-      - free5gc-smf-2
       - free5gc-upf
       - free5gc-upf-2
 
